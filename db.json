@@ -1,0 +1,53 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "AC",
+      "age": null,
+      "gender": null,
+      "city": null,
+      "occupytion": null
+    },
+    {
+      "id": 2,
+      "name": "Michael Wang",
+      "age": 35,
+      "gender": "Male",
+      "city": "Shanghai",
+      "occupation": "Data Scientist"
+    },
+    {
+      "id": 3,
+      "name": "Lily Zhang",
+      "age": 22,
+      "gender": "Female",
+      "city": "Guangzhou",
+      "occupation": "Marketing Specialist"
+    },
+    {
+      "id": 4,
+      "name": "David Li",
+      "age": 40,
+      "gender": "Male",
+      "city": "Shenzhen",
+      "occupation": "Product Manager"
+    },
+    {
+      "id": 5,
+      "name": "Emm Wu",
+      "age": 30,
+      "gender": "Female",
+      "city": "Hangzhou",
+      "occupation": "UI/UX Designer"
+    },
+    {
+      "id": 6,
+      "name": "AC",
+      "age": "12",
+      "gender": "Mal",
+      "city": "China",
+      "occupytion": null,
+      "occupation": "Student"
+    }
+  ]
+}
